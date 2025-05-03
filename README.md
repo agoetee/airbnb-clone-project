@@ -32,25 +32,25 @@
 - **QA Engineer**: Ensures the backend functionalities are thoroughly tested and meet quality standards.
 
 ## Database Design
-- Users
+- **Users** Relationships: Can list and view proterties, make a booking and ratings
     - id
     - name
     - email
-- Properties
+- **Properties**: Relationships: Are added and viewed by Users and booked afterwards
     - id
     - location
     - rooms
     - name
-- Bookings
+- **Bookings** Relationships: Bookings are made on ptoperties
      - id
      - date
      - booked
-- Reviews
+- **Reviews**. Relationships: Are made by Users(customers) on properties
     - title
     - text
     - rating
     - date
-- Payments
+- **Payments**. Relationships: Made by users when they book a particular property
     - date
     - amount
     - success
