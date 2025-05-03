@@ -30,3 +30,27 @@
 - **Database Administrator**: Manages database design, indexing, and optimizations.
 - **DevOps Engineer**: Handles deployment, monitoring, and scaling of the backend services.
 - **QA Engineer**: Ensures the backend functionalities are thoroughly tested and meet quality standards.
+
+## Database Design
+- Users
+    - id
+    - name
+    - email
+- Properties
+    - id
+    - location
+    - rooms
+    - name
+- Bookings
+     - id
+     - date
+     - booked
+- Reviews
+    - title
+    - text
+    - rating
+    - date
+- Payments
+    - date
+    - amount
+    - success
