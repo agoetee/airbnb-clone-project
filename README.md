@@ -55,7 +55,7 @@
     - amount
     - success
 
-## Featuer Breakdown
+## Feature Breakdown
 - **User management** This will contain different users such as customers, Hotel managers and administrators. 
 - **property management**: Will make it possible to insert new properties and provide further descriptions.
 - **Booking System**: This will enable potential customers to book their prefered properties of interest.
