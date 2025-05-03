@@ -65,3 +65,14 @@
 - **Authentication**: This feature will verify a user
 - **Authorization**: This will give permission to the user to perform actions when verification is completed.
 - **Rate limiting**: Feature to control the amount of ratings a verified user can do
+
+## CI/CD Pipeline
+*For laughs 😂: CI/CD Pipeline is like connecting PVC pipe to spray something*
+CI/CD is Continuous Integration and Continuous Deployment/Delivery. A series of steps that devs must follow to deliver 
+a new version of a software. CI/CD pipelines are a practice to improve software delivery throughout the software delivery 
+lifecycle through automation.
+- **GitHub Actions**: GitHub Actions allows developers to create workflows that run when certain events happen in a repository, 
+such as a pull request or a push to a branch. These workflows can then execute various tasks, including running tests, building applications,
+ and deploying to different environments. 
+- **Docker**: Allows devs to package applications with all the dependencies into a standardiaed unit for software development.
+It provides uniformity and the assurance that the application runs the same way in different environments from development to production.
