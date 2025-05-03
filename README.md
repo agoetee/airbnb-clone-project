@@ -60,3 +60,8 @@
 - **property management**: Will make it possible to insert new properties and provide further descriptions.
 - **Booking System**: This will enable potential customers to book their prefered properties of interest.
 - **payment Integration**: The customer will pay for the room through the payment system.
+
+## API Security
+- **Authentication**: This feature will verify a user
+- **Authorization**: This will give permission to the user to perform actions when verification is completed.
+- **Rate limiting**: Feature to control the amount of ratings a verified user can do
